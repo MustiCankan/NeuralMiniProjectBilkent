@@ -1,3 +1,5 @@
+<h1>EEE 443- 543 Neural Network </h1>
+
 Mini project aims to design different kinds of neural networks for different applications
 and observe their results. Mini project has 3 parts. In part 1, sparse autoencoder is designed to
 obtain hidden feature extraction. Moreover, natural language structure is designed for predicting
